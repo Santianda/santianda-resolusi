@@ -1,4 +1,5 @@
-SANTIANDARESOLUSI
+SANTIANDA-RESOLUSI
 -Belajar analisis data
 -Belajar aplikasi Python,SQL, Tableau, SPSS, C++
--Semangat
+-Berjuang
+-Terus Beljar
